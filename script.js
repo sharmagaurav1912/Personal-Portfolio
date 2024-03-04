@@ -26,7 +26,7 @@ function changeTheme(){
     
     else{
         
-        img.src="img/dark theme icon/moon.png";
+        img.src="img/dark theme icon/crescent-moon.png";
         img.style.backgroundColor = "white";
         
         navbar.className = "navbar navbar-expand-lg navbar-light bg-white ";
